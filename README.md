@@ -1,5 +1,5 @@
 # ROSSMANN SALES PREDICTION MODEL
-![My Image](https://www.alamy.com/stock-image-rossmann-label-166659792.html?imageid=EB412B7B-B8DF-4B09-8FE3-3D798CC79480&p=225586&pn=2&searchId=41a9b960dc6e2a12bcdf6663ee2cca30&searchtype=0)
+![My Image](Data/327718925-917fe920-0c39-4582-88cd-92a27a766db0.jpg)
 
 # About Rossmann
 Rossmann is a prominent chain of drug stores operating across seven European countries, with over 3,000 stores in its network. The company offers a wide range of products, including pharmaceuticals, personal care items, beauty products, household goods, and more. Rossmann is known for its extensive product selection, competitive pricing, and convenient store locations. Founded in Germany in 1972 by Dirk Rossmann, the company has since expanded its presence across Europe, becoming one of the largest drug store chains in the region. Rossmann's stores are known for their modern and inviting layouts, making shopping convenient and enjoyable for customers.
