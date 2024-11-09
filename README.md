@@ -56,6 +56,11 @@ The models are evaluated using metrics such as R-squared, Mean Squared Error (MS
 - Focus on optimizing promotions and store operations during peak sales periods.
 - Consider the impact of store type, assortment, and competition when making business decisions.
 
+  ## Requirements
+
+- Python 3.x
+- Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, etc.
+
 ## Conclusion
 - Utilize insights on the impact of promotions to optimize promotional strategies, ensuring effective timing and types of promotions. Use sales forecasts to optimize staffing levels and inventory management, ensuring adequate resources during peak sales periods while minimizing excess stock.
 - Plan staffing, promotions, and inventory management strategies in advance for holidays and school breaks, considering their impact on sales.
